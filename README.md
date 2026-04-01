@@ -67,7 +67,7 @@ The results suggest that effectiveness depends more on how VR is applied rather 
 
 ---
 
-## 👤 Author
+👤 Author
 
-Lucas  
-Aspiring Data Analyst | Python | SQL | Databrick
+Lucas Passion  
+Data Analyst | Python | SQL | Databricks
